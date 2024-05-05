@@ -1,0 +1,49 @@
+{
+  "name": "projetave",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.6",
+    "axios": "^1.6.8",
+    "clsx": "^2.1.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "express": "^4.19.2",
+    "formik": "^2.4.6",
+    "mongodb": "^6.6.0",
+    "mongoose": "^8.3.3",
+    "next": "14.2.3",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "readfiles": "^1.0.0",
+    "require": "^0.4.4",
+    "swr": "^2.2.5",
+    "topic": "^3.0.2",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.1.2",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.34.1",
+    "postcss": "^8",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "tailwindcss": "^3.4.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
+}
